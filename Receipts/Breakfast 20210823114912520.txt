@@ -1,0 +1,6 @@
+ You Ordered 2 Bread
+ Your Total is  $ 20.0
+ You paid  $ 1000
+ Your Balance is  $ 980.0
+
+ Thank you for starting your day with us  

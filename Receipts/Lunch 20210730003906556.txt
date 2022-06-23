@@ -1,0 +1,4 @@
+ You Ordered 3 French Fries
+ Your Total is  $ 90.0
+ You paid  $ 100
+ Your Balance is  $ 10.0

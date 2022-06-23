@@ -1,0 +1,4 @@
+ You Ordered 2 Eggs
+ Your Total is  $ 24.0
+ You paid  $ 100
+ Your Balance is  $ 76.0

@@ -1,0 +1,6 @@
+ You Ordered 5 French Fries
+ Your Total is  $ 150.0
+ You paid  $ 400
+ Your Balance is  $ 250.0
+
+ Thank you for having lunch with us  

@@ -1,0 +1,4 @@
+ You Ordered 4 Tea
+ Your Total is  $ 20.0
+ You paid  $ 180
+ Your Balance is  $ 160.0

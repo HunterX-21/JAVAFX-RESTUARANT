@@ -1,0 +1,6 @@
+ You Ordered 20 Eggs
+ Your Total is  $ 240.0
+ You paid  $ 1000
+ Your Balance is  $ 760.0
+
+ Thank you for starting your day with us  

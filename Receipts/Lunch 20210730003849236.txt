@@ -1,0 +1,4 @@
+ You Ordered 2 Rice
+ Your Total is  $ 50.0
+ You paid  $ 200
+ Your Balance is  $ 150.0

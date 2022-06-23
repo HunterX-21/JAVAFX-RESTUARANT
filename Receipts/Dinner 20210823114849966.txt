@@ -1,0 +1,6 @@
+ You Ordered 200 Pizza
+ Your Total is  $ 2000.0
+ You paid  $ 4000
+ Your Balance is  $ 2000.0
+
+ Thank you for dining with us  

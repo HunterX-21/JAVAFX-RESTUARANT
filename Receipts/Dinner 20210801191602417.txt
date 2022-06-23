@@ -1,0 +1,6 @@
+ You Ordered 5 Chinese
+ Your Total is  $ 80.0
+ You paid  $ 200
+ Your Balance is  $ 120.0
+
+ Thank you for dining with us  

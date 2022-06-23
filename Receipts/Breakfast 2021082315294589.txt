@@ -1,0 +1,6 @@
+ You Ordered 1 Eggs
+ Your Total is  $ 12.0
+ You paid  $ 677
+ Your Balance is  $ 665.0
+
+ Thank you for starting your day with us  

@@ -1,0 +1,4 @@
+ You Ordered 2 FUFU
+ Your Total is  $ 40.0
+ You paid  $ 100
+ Your Balance is  $ 60.0
